@@ -13,7 +13,7 @@ body {
 
 * {
   box-sizing: border-box;
-  font-family: 'Monaspace Neon';
+  font-family: "Monaspace Neon";
 }
 
 h1 {
@@ -23,8 +23,8 @@ h1 {
 
 /* nav styles */
 .hamburger {
-padding-right: 20px;
-cursor: pointer;
+  padding-right: 20px;
+  cursor: pointer;
 }
 
 .hamburger .line {
@@ -34,7 +34,6 @@ cursor: pointer;
   margin-bottom: 10px;
   background-color: #ff9776;
 }
-
 
 .nav-links {
   width: 100%;
